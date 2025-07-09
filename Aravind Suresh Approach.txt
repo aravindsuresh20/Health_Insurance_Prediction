@@ -1,0 +1,6 @@
+Approach:
+1. Data Preprocessing - Handling missing values, encoding categorical variables.
+2. Feature Engineering - Standardizing numerical features.
+3. Model Selection - Using RandomForestClassifier, GradientBoostingClassifier, and XGBClassifier.
+4. Model Evaluation - Using ROC-AUC Score.
+5. Submission - Generating probability predictions.
